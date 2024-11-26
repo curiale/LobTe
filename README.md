@@ -4,6 +4,8 @@ change of lung density at five years from a CT scan. Figure 1 show the workflow
 proposed: (a) A local density model is utilized to capture the evolution of lung
 density and the progression of emphysema. (b) A transformer-based model is designed to predict changes in lung density (∆ALD) based on the extent of tissue destruction within each lung lobe.
 
+![LobTe workflow](/assets/images/LobTe_workflow.png)
+
 ## Requirements
 Tensorflow 2.12.1
 Numpy 1.23.2
