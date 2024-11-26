@@ -8,8 +8,11 @@ density and the progression of emphysema. (b) A transformer-based model is desig
 
 ## Requirements
 Tensorflow 2.12.1
+
 Numpy 1.23.2
+
 SimpleITK 2.3.0
+
 scikit-learn 1.1.2
 
 ## Dataset
